@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeCountTogether</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="button4">Button4</string>
+    <string name="button5">Button5</string>
+    <string name="button8">Button8</string>
+    <string name="button9">Button9</string>
+    <string name="button6">Button6</string>
+    <string name="button7">Button7</string>
+    <string name="button10">Button10</string>
+    <string name="button11">Button11</string>
+    <string name="button15">Button15</string>
+    <string name="button14">Button14</string>
+    <string name="button12">Button12</string>
+    <string name="button13">Button13</string>
+    <string name="button16">Button16</string>
+    <string name="button17">Button17</string>
+    <string name="button18">Button18</string>
+    <string name="button19">Button19</string>
+    <string name="button20">Button20</string>
+</resources>
